@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "aicli",
+  "versions": [
+    {
+      "commit": "56aff269b70d52a4712d9e9f6b092466066f0fba",
+      "tag": "v0.8.0",
+      "parsed_at": "2026-10-11T21:53:28.938582+00:00"
+    }
+  ]
+}
