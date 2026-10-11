@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/aicli/commit/56aff269b70d52a4712d9e9f6b092466066f0fba",
       "git:hexsha": "56aff269b70d52a4712d9e9f6b092466066f0fba",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.8.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.8.0",
+      "repolex:parsedAt": "2026-10-11T21:53:28.938149+00:00"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/aicli/commit/377e4a0c825c67953ef54b195ac0b7b6457a0cfe",
