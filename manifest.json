@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "aicli",
+  "versions": [
+    {
+      "commit": "56aff269b70d52a4712d9e9f6b092466066f0fba",
+      "parsed_at": "2026-10-11T21:51:11.942251+00:00",
+      "tag": "v0.8.0",
+      "filetree": "filetree/56aff269b70d52a4712d9e9f6b092466066f0fba.nq.gz",
+      "blobs": [
+        "blob/a7c11769abd737e2ab564dacccf5e1e6dfcc989d.nq.gz",
+        "blob/455963f41782c79a8b56535770d474fc3decb00c.nq.gz",
+        "blob/8628b976776b4171bdf1c6e2fb41b592d76c4e89.nq.gz",
+        "blob/2bbe6b2b09777d5c2787bc01e79d5ecedd41b2a4.nq.gz",
+        "blob/92457058b515165318d0810a8e51b92952bb598a.nq.gz",
+        "blob/61ef40189c765733a20a0c3f7168fa22e29fbb69.nq.gz",
+        "blob/5c5e77c71640eeab27f31402393840dfb0e052a1.nq.gz",
+        "blob/483c0dd42b9cbebbeb465a4b08a69a6ffea7e67a.nq.gz",
+        "blob/f2eaa8f399a589ebca97095f227e0f6f630c9e83.nq.gz",
+        "blob/56ad1687bd5e804ac99b11c29e5ec08fd133e07d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
